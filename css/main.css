@@ -811,7 +811,7 @@ table.field {
 }
 
 .gameSettings {
-	display: none;
+	display: none !important;
 }
 
 .ivs.calc-trigger,
