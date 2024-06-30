@@ -810,7 +810,7 @@ table.field {
 	color: unset;
 }
 
-.gameSettings {
+#gameSettings {
 	display: none !important;
 }
 
